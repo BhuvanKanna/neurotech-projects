@@ -1,0 +1,10 @@
+subject,protocol,model,accuracy,macro_f1
+1,cross_subject,riemannian_ts_logreg,0.4704861111111111,0.3889238592140801
+2,cross_subject,riemannian_ts_logreg,0.3038194444444444,0.27558279566333804
+3,cross_subject,riemannian_ts_logreg,0.5347222222222222,0.5357392868777061
+4,cross_subject,riemannian_ts_logreg,0.3506944444444444,0.3203756522842026
+5,cross_subject,riemannian_ts_logreg,0.265625,0.1500282788005365
+6,cross_subject,riemannian_ts_logreg,0.2916666666666667,0.2435718585679886
+7,cross_subject,riemannian_ts_logreg,0.359375,0.34704834784676725
+8,cross_subject,riemannian_ts_logreg,0.5451388888888888,0.5071743679236438
+9,cross_subject,riemannian_ts_logreg,0.5381944444444444,0.5260592256158858
