@@ -1,5 +1,6 @@
 .venv/
 mne_data/
+myoelectric-controller/data/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
